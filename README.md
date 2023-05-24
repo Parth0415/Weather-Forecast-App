@@ -2,7 +2,7 @@
 
 ## Description
 
-The weather forecast application help users to check weather forecast for upto 5 days so that, they can plan there trip accordingly. Furthermore, this application helps users to check weatherforecast for multiple cities and also they can save there favourite city weather forecast on the application dashboard.
+The weather forecast application help users to check weather forecast for upto 5 days so that, they can plan there trip accordingly. Furthermore, this application helps users to check weather forecast for multiple cities and also let them save there favourite city weather forecast on the application dashboard.
 
 ## Table of contents
 
