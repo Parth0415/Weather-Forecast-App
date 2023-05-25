@@ -18,6 +18,10 @@ The weather forecast application help users to check weather forecast for upto 5
 
 For installation, please visit the [Weather-Forecast-App](https://github.com/Parth0415/Weather-Forecast-App).
 
+## API
+
+* The weather data is rendered by [OpenWeather](https://openweathermap.org/forecast5)
+
 
 ## Usage
 
