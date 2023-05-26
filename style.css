@@ -1,3 +1,105 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+ text-align: center;
+ color: white;
+ background: rgb(23,10,242);
+ background: linear-gradient(90deg, rgba(23,10,242,1) 0%, rgba(47,48,48,1) 62%);
+padding:10px;
+}
+.topContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+aside{
+    display: flex;
+    flex-direction: column;
+
+}
+.textField{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.separator{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#searchButton{
+    color: white;
+    background-color: blue;
+    padding: 4px;
+}
+#searchButton:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.cities{
+    color: white;
+    background-color: gray;
+    width: 100%;
+    padding: 4px;
+}
+.cities:hover{
+    background-color: salmon;
+    cursor: pointer;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.forecastHeaderContainer{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 100%;
+    margin-top: 10px;
+    padding: 5px;
+}
+h1,h2,h3,p{ 
+    margin: 0;
+}
+.forecastHeader{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.headerData{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.forecastCardsContainer{
+    display: flex;
+    flex-direction: column;
+}
+.cardsHeading{
+    margin: 10px;
+}
+.cardContainer{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.card{
+    background-color: rgb(33, 33, 82);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: fit-content;
+    padding: 20px;
+    
+}
 
 
 
