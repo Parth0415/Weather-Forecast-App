@@ -42,6 +42,12 @@ aside{
     background-color: aqua;
     cursor: pointer;
 }
+
+#searchHistory{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
 .cities{
     color: white;
     background-color: gray;
