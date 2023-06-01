@@ -25,7 +25,7 @@ For installation, please visit the [Weather-Forecast-App](https://github.com/Par
 
 ## Usage
 
-- To start using the application make sure you deployed the application [Weather-Forecast-App]().
+- To start using the application make sure you deployed the application [Weather-Forecast-App](https://parth0415.github.io/Weather-Forecast-App/).
 
 
 ## Screenshot
