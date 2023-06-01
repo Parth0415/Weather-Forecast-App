@@ -30,7 +30,7 @@ For installation, please visit the [Weather-Forecast-App](https://github.com/Par
 
 ## Screenshot
 
-![Challenge 6](.png?raw=true "Challenge 6")
+![Challenge 6](./assets/images/screenshot.png?raw=true "Challenge 6")
 
 
 ## Contribution
